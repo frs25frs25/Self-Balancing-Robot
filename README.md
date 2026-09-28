@@ -2,8 +2,8 @@
 
 A self-balancing robot built with an Arduino Uno, MPU6050 IMU, and TB6612
 motor driver. Tuned to balance for 3+ minutes without encoders.
-
-Video: [link to YouTube]
+![Robot](Selvbalanserenderobot/images/balancing-robot.png)
+Video: https://youtube.com/shorts/MXbHpP8IKzA
 
 ## Hardware
 - Arduino Uno R3
